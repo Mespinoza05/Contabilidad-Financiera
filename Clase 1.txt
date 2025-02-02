@@ -5,34 +5,71 @@ Clase No	: 1
 Unidad		: Introducción a la Contabilidad		
 Tema		: Nociones Preliminares
 
-Contenido	: -Antecedentes
-		  -Generalidades de la contabilidad
-		  -Ramas de la Contabilidad
-		  -Usuarios de la Contabilidad
--		  -Introducción de la Contabilidad
+Contenido	:   - Antecedentes
+				- Generalidades de la contabilidad
+				- Ramas de la Contabilidad
+				- Usuarios de la Contabilidad
+				- Introducción de la Contabilidad
 
 Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
 
-Que es Contabilidad?
-R: Es la ciencia de recopilacion de informacion atravez de registros, clasifica, 
-para emitir reportes, resumenes de uns institucion financiera
+¿Qué es Contabilidad?
+R: Es la ciencia de recopilación de información a través de registros, clasifica, 
+para emitir reportes, resúmenes de una institución financiera.
 
 Antecedentes:
-La contabilidad como un medio de control y proporcionante de informacion financeira, data del siglo XV, en el año 1494. Cuando en Italia, el Fraile Franciscano: Luca Paccioli crea el metodo de contabilidad por partida doble.
+La contabilidad como un medio de control y proporcionarte de información financiera, data del siglo XV, en el año 1494. Cuando en Italia, 
+el Fraile Franciscano: Luca Paccioli crea el método de contabilidad por partida doble.
 
-La simplicidad de la formula, permitio por muchos años al momento de contabilizar las operaciones mercantiles, de una forma sencilla, y que sigue subsistiendo en operaciones complejas actuales(bolsa de valores bursatiles).
+La simplicidad de la fórmula, permitió por muchos años al momento de contabilizar las operaciones mercantiles, de una forma sencilla, 
+y que sigue subsistiendo en operaciones complejas actuales (bolsa de valores bursátiles).
 
 Generalidades de la Contabilidad:
-La contabiliadd es el arte de registrar, clasificar y resumir en forma significativa y en terminos de dinero las operaciones y los hechos que son de caracter financiero, asi como interpretar los resultados.
+La contabilidad es el arte de registrar, clasificar y resumir en forma significativa y en términos de dinero las operaciones y los hechos que son de carácter financiero, así como interpretar los resultados.
 
-la contabilidad es el conjunto de reglas y principios que enseñan la forma de registrar sistematicamente las operaciones financieras que realizan en una empresa o entidad y la sistematizacion de su significado de tal manera, que se puedan ser interpreados mediante los estados financieros
+La contabilidad es el conjunto de reglas y principios que enseñan la forma de registrar sistemáticamente las operaciones financieras que realizan en una empresa o entidad 
+y la sistematización de su significado de tal manera, que se puedan ser interpretados mediante los estados financieros.
 
-La contabulidad es la disciplina que enseña las normas y procedimientos para analizar, clasificar y registrar las operaciones efectuadas por las entidades economicas integradas por un individuo, o constituidas vajos la forma de sociedades. y que sirve de base para elaborar informacion financiera que se a de utilidad al usuario general en la toma de sus deciciones economicas
+La contabilidad es la disciplina que enseña las normas y procedimientos para analizar, clasificar y registrar las operaciones efectuadas por las entidades económicas integradas por un individuo, 
+o constituidas bajo la forma de sociedades. y que sirve de base para elaborar información financiera que sea de utilidad al usuario general en la toma de sus decisiones económicas.
 
 Ramas de la contabilidad:
-Contabilidad de Costos	:Es la tecnica para determinar los costos de procudir un producto o servicio	/	Es la rama de la contabilidad que trada de la clasificacion, contabilizacion, distribucion, recopilacion de inforacion de los costos corrientes y la determinacion de los costos unitarios de cada producto
-Contabiliadd Financiera	:Es para rendir cuentas a personas internas como externas	/	Es una tecnica que se utiliza para producir sistematica y estructuradamente informacion cuantitativa expresada en unidades monetarias de las transacciones que realiza una entidad economica y de ciertos eventos economicos identificable y cuantificable que la afectan
-Contabiliadd Fiscal	:Se refiere a la parte de declaracion de impuestos	/	Se fundamenta en los criterios fiscales, establecidos legalmente en cada pais. comprende el registro y la preparacion de informes tendientes a la presentacion de declaraciones y e pago de impuestos
+Contabilidad de Costos:
+	Es la técnica para determinar los costos de producir un producto o servicio. / Es la rama de la contabilidad que trata de la clasificación, 
+	contabilización, distribución, recopilación de información de los costos corrientes y la determinación de los costos unitarios de cada producto.
+Contabilidad Financiera:
+	Es para rendir cuentas a personas internas como externas. / Es una técnica que se utiliza para producir sistemática 
+	y estructuradamente información cuantitativa expresada en unidades monetarias de las transacciones que realiza una entidad económica 
+	y de ciertos eventos económicos identificables y cuantificables que la afectan.
+Contabilidad Fiscal:
+	Se refiere a la parte de declaración de impuestos. / Se fundamenta en los criterios fiscales, establecidos legalmente en cada país. 
+	comprende el registro y la preparación de informes tendientes a la presentación de declaraciones y el pago de impuestos.
 
-usuarios de la contabilidad:
-
+Usuarios de la contabilidad:
+	Interno: 
+		Jefes, gerentes, administradores, socios, accionistas, inversionistas, propietarios, junta directiva, empleados.
+	Externo: 
+		Estado, Cámara de comercio, Bolsa de valores, Bancos, prestamistas, Proveedores, inversionistas potenciales, clientes.
+	Son usuarios internos aquellos que participan en la gestión de la actividad económica, tienen acceso ilimitado que les permite tomar decisiones específicas.
+	Propietarios:
+		Aportan dinero para la creación de la empresa. perciben de la compañía a través de dividendos. Los estados financieros les permiten la toma de decisiones basada en niveles de rentabilidad.
+	Socios: 
+		Usuarios de los estados financieros, que suministran recursos a la empresa.
+	Empleados:
+		Por medio de sus representantes legales, estos pueden acceder a información contable de la empresa, con el fin de darse una idea si peligran o no, sus puestos de trabajo.
+	La Dirección:
+		Este sector, necesita información detallada y urgente, les interesa conocer la posibilidad de obtener créditos, aumentar los ingresos de la empresa, disminuir costos y gastos, entre otras cosas.
+	
+	Son usuarios externos
+		Clientes:
+			Les interesa la información acerca de la continuidad que tendrá la operación de la empresa, 
+			especialmente cuando han efectuado inversiones a largo plazo relacionadas o dependientes del suministro de productos o servicios.
+		El Gobierno y las cámaras:
+			Requieren información del mercado que obtienen la empresa, así como sus actividades presentes y futuras.
+			También desean información para regular las operaciones de las empresas, determinar las políticas de impuestos, así como la información relacionada con estadísticas.
+		Instituciones de Crédito o Prestamistas:
+			Requieren información relacionada con los préstamos con el fin de conocer si sus créditos o intereses les serán pagados al vencimiento.
+		Acreedores:
+			Les interesa determinar la capacidad de pagos de sus clientes, la garantía que respaldan sus créditos, efectuadas.
+		Proveedores:
+			Les interesa conocer la cantidad de producción de sus clientes, la capacidad de pago de sus clientes.

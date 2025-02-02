@@ -1,0 +1,96 @@
+Fecha:		Domingo, 26 de enero del 2025
+
+Curso de contabilidad financiera
+Clase No	: 7
+Unidad		: Registros Contables		
+Tema		: Sistema de Registro de Operaciones
+
+Contenido	: 	- Reglas del Cargo y Abono
+		  		- Partida Doble
+		  		- Asiento Contable
+		  		- Forma de registro de operaciones
+
+Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
+
+Estado Financiero Basico
+1 => Balance General o Estado de Situacion Financiera o Estado de Posision Financiera
+2 => Estado de Resultados o Estado de Perdidas y Ganancias o Estado de Resulktado Integral
+3 => Estado de Flujos de Efectivo o Estados de Cambio en la Posision Financiera
+4 => Estado de Cambio en el patrimonio 0 Estado de Variacion en el Capital Contable
+
+													EL VIEJANO S.A.
+											BALANCE GENERAL AL 31 DE ENERO DEL 2025
+							
+
+		Activo														Pasivo
+	Activo Corriente										 	Pasivo Corriente					
+1- Caja								C$ XXX					11- Proveedores							C$ XXX
+2- Bancos							   XXX					12- Documentos por Cobrar				   XXX						
+3- Inventario						   XXX					13- Acreedores Diversos					   XXX		C$ XXX
+4- Cuentas por Cobrar				   XXX
+5- Deudores Diversos				   XXX		C$ XXX			Pasivo no Corriente
+															14- Acredore Hipotecarios				   XXX
+	Activo no Corriente										16- Documentos por Pagar a largo Plazo	   XXX		   XXX
+  Propiedad Pranta y Equipo										Total de Pasivo									C$ XXX	
+6- Terreno							 C$ XXX			
+7- Edificio							    XXX							Capital					
+8- Mobiliario y equipo de oficina       XXX		C$ XXX		17- Capital Social						C$ XXX	
+	Cargos Diferidos										18- Utulidad Acumulada					   XXX
+9- Gastos de Presentacion			C$ XXX					19- Utilidad del Ejercicio				   XXX		C$ XXX	
+10-Patente							   XXX		   XXX			Total Pasivo + Capital =						C$ XXX	
+Total de Activo									C$ XXX		
+															
+																
+			ELABORADO POR						AUTORIZADO POR								REVISADO POR
+
+
+										ESTADOS DE RESILTADO
+
+				VENTAS					C$ 50,000.00
+				COSTOS DE VENTA    		   30,000.00
+				UTILIDAD BRUTA O VENTAS C$ 20,000.00
+				GASTOS DE VENTA			    2,000.00
+				GASTOS DE ADMINISTRACION    3,000.00
+				UTILIDAD DEL EJERCICIO	C$ 15,000.00
+
+(OTROS GASTOS)		=> PAGO DE MORA PERDIDA QUE NO TIENE NADA QUE VER CON EL GIRO DEL NEGOCIO
+(OTROS PRODUCTOS)	=> CUANDO SE PRECIBEN GANANCIAS POR UN GIRO QUE NO ES DE MI NEGOCIO
+
+VENTAS NETAS 							= VENTAS BRUTAS - DEVULUCIONES SOBRE VENTA - REBAJAS SOBRE VENTAS - DESCUENTOS SOBRE VENTA
+COMPRAS 								= COMPRAS + GASTOS DE COMPRA (GASTOS DE COMPRA =  TRANSPORTE, FLETE, ACARREO, IMPUESTO, SEGURO)
+COMPRAS NETAS							= COMPRAS TOTALES - DEVOLUCIONES SOBRE COMPRA - DESCUENTOS SOBRE COMPRAS - REBAJAS SOBRE COMPRAS
+COSTO DE VENTA							= INVENTARIO INICIAL + COMPRAS NETAS - INVENTARIO FINAL
+UTILIDAD BRUTA							= VENTAS NETAS - COSTOS DE VENTA
+GASTOS OPERATIVOS						= GASTOS DE VENTA + GASTOS ADMINISTRACION + GASTOS FINANCIEROS
+UTILIDAD DE OPERACION					= UTILIDAD BRUTA - GASTOS OPERATIVOS
+PERDIDA ENTRE OTROS GASTOS Y PRODUCTOS	= OTROS GASTOS - OTROS PRODUCTOS
+UTILIDAD ENTRE OTROS GASTOS Y PRODUCTOS = OTROS PRODUCTOS - OTROS GASTIS
+
+UTILIDAD DEL EJERCICIO 					= UTILIDAD DE OPERACION - PERDIDA ENTRE OTROS GASTOS Y PRODUCTOS
+
+EL VIEJANO SA
+ESTADO DE RESILTADO
+DEL 01 AL 31 DE ENERO DEL AÑO 2025
+	VENTAS
+MENOS DEDUCCIONES SOBRE VENTA
+MENOS DESCUENTOS SOBRE VENTA
+INVENTARIO INICIAL
+COMPRAS
+MENOS GASTOS DE COMPRA
+	COMPRAS TOTALES
+MENOS DEDUCCIONES SOBRE COMPRA
+MENOS DESUTNETOS SOBRE COMPRA
+MENOS COMPRAS NETAS
+SUMA O TOTAL DE MERCACIAS
+MENOS INVENTARIO INICIAL
+COSTO DE LO VENDIDO
+	UTILIDAD BRUTA
+	GASTOS DE OPERACION
+GASTOS DE VENTA
+RENTA DEL ALMACEN
+PROPAGANDA Y PUBLICIDAD
+SUELDOS DE AGENTES Y DEPENDIENTES
+COMISIONES DE AGENTES Y VENDEDORES
+INSUMO DE LUZ
+	GASTOS DE ADMINISTRACION
+RENTA DE OFICINAS

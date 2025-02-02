@@ -1,0 +1,244 @@
+Fecha:		Domingo, 05 de enero del 2025
+
+Curso de contabilidad financiera
+Clase No	: 
+Unidad		: Introducción a la Contabilidad		
+Tema		: Cuentas Contable, denominación movimientos y saldos
+
+Contenido	: 	-Continuación tema anterior
+		  	
+Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
+
+Clase				
+											
+				|						|					|	- Caja o Caja General
+				|						|					|	- Fondo fijo de Caja Chica
+				|						|		Disponible	|	- Banco
+				|	Activo Circulante	|					|	- Inversiones Temporales
+				|						|
+				|			o			|					|	- Caja o Caja General
+				|						|					|	- Fondo fijo de Caja Chica
+				|						|					|	- Banco
+				|	Activo Corriente	|					|	- Inversiones Temporales
+				|						|					|	- Inventario, Almacén, Mercancía, Mercancías Generales, Inventarios de Mercancía
+				|						|					|	- Mercancía en Transito
+				|						|		Realizable	|	- Clientes, Cuentas por Cobrar	|
+				|						|					|	- Documentos por cobrar			|=> Cuentas Comerciales por cobrar
+				|						|					|	- Deudores Diversos				|
+				|						|					|	- Funcionarios y Empleados
+				|						|					|	- IVA Acreditable
+				|						|					|	- Anticipo de Impuestos
+				|						|					|	- Anticipo de Proveedores
+				|
+				|
+				|						|					|	- Terreno
+				|						|					|	- Edificio
+				|						|		Inmueble,	|	- Maquinaria
+Activo			|						|	Maquinaria y	|	- Mobiliario y equipo de Oficina
+				|						|	Equipo Fijo		|	- Muebles y enseres
+				|						|					|	- Muebles de Transporte, Equipo Rodante
+				|						|					|	- Equipor de Entrega, Equipo Rodante
+				|						|
+				|	Activo no Circulante|					|	- Patente
+				|						|					|	- Marcas Registradas
+				|						|					|	- Credito Comerciales
+				|			o			|					|	- Gastos Preoperativos
+				|						|					|	- Gastos de Construccion
+				|	Activo no Corriente	|	Activo Diferido	|	- Gastos de Instalacion
+				|						|					|	- Papeletia y Utiles
+				|						|					|	- Propaganda y Publicidad
+				|						|					|	- Primas Seguros y Finanzas
+				|						|					|	- Rentas Pagadas por Anticipado
+				|						|					|	- Intereses pagados por anticipado
+				|
+				|						|					|	- Depositos en Garantia
+				|						|	Otros Activo	|	- Inversiones en Proceso
+				|						|					|	- Terrenos no Utilizados
+				|						|					|	- Maquinaria no Utilizados
+
+
+El pasivo se define por su grado de exigibilidad
+(se refiere al grado de pagar en el plazo definido)
+
+				|						|	- Las NIIF definen Obligaciones Financieras
+				|						|	- Proveedores
+				|						|	- Documentos por Pagar
+				|						|	- Anticipo de Clientes
+				|						|	- Dividendos por Pagar
+				|	  Pasivo Circulante | 	- IVA por Pagar
+				|			o			| 	- Impuestos sobre la renta por Pagar
+				|	  Pasivo Corriente  |	- Impuestos y derechos remitidos por enterar
+				|			o			|	- Intereses por Pagar
+				|	  Pasivo a corto	|	- Sueldos Acumulados por Pagar
+				|			plazo		|	- Gastos Acumulados por pagar
+Pasivo			|						|	- Ingresos Pagados por anticipado
+				|
+				|						|	- Acreedores Hipotecarios
+				|Pasivo no Circulante	|	- Acreedores Bancarios
+				|Pasivo a largo plazo   |	- Documentos por pagar a largo Plazo
+				|Pasivo no Corriente	|	- Cuentas por pagar a largo plazo
+				|
+				|						|	- Rentas cobradas por Anticipado
+				|Pasivo Diferido		|	-Intereses cobrados por anticipado
+										
+Esta definido por las aportaciones										
+				|						|	- Capital Social
+				| Capital Cintribuido	|	- Aportaciones para futuros aumentos de capital
+				|						|	- Prima de venta de acciones
+Capital			|						|	- Donaciones
+				|
+				|						|	- Utilidades Retenidas								En NIIF es Ganancias Acumuladas
+				|Capital Ganado o		|	- Reserva Legal
+				| Deficit				|	- Exceso o Insuficiencia en capital
+
+
+Ingresos:
+Los ingresos representan el dinero que entra a una empresa
+debido a las actividades economias de las mismas.
+Si una empresa comercial vende mercacias al contado, se contabiliza
+la operacion, dandole un debito a efectivo (Activo) y un credito a venta de mercancias(Igreso)
+
+
+Cuentas del capital o cuentas de resultado
+
+
+las cuentas de Ingresos 
+se les llama tambien cuentas del capital Deudoras
+
+las cuentas de capital Acreedoras
+son las de costos y Gastos
+Ingresos
+	- Ventas => Segun NIIF Ingresos de Actividades Ordinarias
+	- Devoluciones sobre Ventas
+	- Descuentos sobre Ventas
+	- Rebajas sobre Ventas
+	- Productos Financieros
+	- Otros Productoss
+
+Costos:
+Un costo es todo desembolso de dinero que se hace con el objetivo de adquirir un activo que generara beneficios
+economicos al negocio
+Costos
+	- Costo de Ventas / Costos de lo vendido / Niif => Costo de distribucion
+	- Compras
+	- Gastos de Compras
+	- Devoluciones sobre Compras
+	- Descuentos sobre Compras
+	- Rbajas sobre Compras
+
+Gastos:
+Un gasto es un egreso o salida de dinero que esta destinado a la distribucion de un producto o un bien
+Gastos
+	- Gastos de Ventas
+	- Gastos de Administracion
+	- Gastos Financieros
+	- Otros Gastos
+
+
+Cuentas de Orden:
+Estas cuentas no impactan en la contabilidad de la empresa 
+Cuentas de Orden
+	- Deudoras
+		-
+
+	- Acreedoras
+		-
+
+Clasificacion de las cuentas contables:
+Las cuentas en la contabilidad financiera, se clasifican por su funcion y su estructura.
+
+Clasificacion por su funcion:
+	Cuentas reales o de Balance:
+		Son aquellas de representan los recursos y las obligaciones que en un momento dado tiene la empresa o negocio (a una fecha dada), 
+		entendiendo por recursos, todos aquellas bienes que tiene la empresa y que le permiten desarrollar su objeto social.
+		Estas cuentas son las que conforman el estado financiero de proposito general, denominado Balance General o estado de posision financiera
+		que de muestra lo que la empresa tiene en un momento determinado, es semejante a una fotografia instanatanea tomada a la empresa, cuando paso por un punto
+		del continuo espacio - tiempo en el cual se mueve al futuro 
+		Activo, Pasivo y capital
+
+
+	Cuentas Nominales o de resultado:
+		Son aquellas cuentas que representan los ingresos y los egresos, producto de las operaciones que la empresa ha tenido entre un periodo determinado
+		comprendido entre 2 fechas. estas cuentas tienen un caracter transitorio o temporal, su duracion es la misma del periodo contable
+		Cuentas de Ingresos, costos y Gastos
+
+	Cuentas de Orden:
+		Son aquellas cuentas que representan valores que no pertenecen a la empresa, ni son obligaiciones de la misma, pero que pueden en un futuro representar un recurso o una obligacion
+		para el ente economico y por lo tanto, deben ser registradas y reveladas en los estados financieros por control
+		Deudor y Avreedor
+
+Clasigicacion por la estructura de las cuentas
+	Cuentas principales o de mayor
+	Cuentas auxiliares
+
+Resumen:
+Las cuentas están enumeradas de la siguiente manera:
+
+	Cuentas reales o de balance:
+
+		Activo
+
+		Pasivo
+
+		Capital
+
+	Cuentas nominales o de resultado:
+
+		Ingresos
+
+		Costos
+
+		Gastos
+
+	Cuentas de orden:
+
+		Deudor
+
+		Acreedor
+
+
+Catalogo de cunetas:
+El Catalogo de cuentas de una empresa es un listado de cada cuenta que utiliza la organizacion
+para registrar las diferentes transacciones contables. 
+Dependiendo del pais, las compañias tiene cierta flexibilidad para elaborar el catalogo de cuentas
+de acuerdo a sus necesidades y a lo que mejor se ajuste a su realidad.
+
+El catalogo de cunetas es un plena de cunentas que sirve para el registro, clasificacion y aplicacion de las operaciones
+a las actividades correspondientes. cada cuenta del catalogo debe estar acompañada de un identificador unico que puede ser numerico o alfanumeroco
+
+Sistema de codificacion
+1. Secuencial
+	Consiste en la asignacion consecutiva de un numero a una lista de elementos a partir de un numero predeterminado
+	Codigo
+	001		Cuentas por Cobrar Carlos Mendez
+	002		Cuentas por Cobrar Lazaro Gonzalez
+
+2. Por Bloque
+	Representa una derivacion del secuencial, ya que bajo este metodo los codigos se asigan secuencialmente 
+	pero en bloques de digitos consecutivos, que identifiquen alguna caracteristica del elemento a codificar
+	Codigo
+	001-001		Cuentas por Cobrar Carlos Mendez
+	001-002		Cuentas por Cobrar Lazaro Gonzalez
+
+3. Por Grupo
+	Es otra derivacion de la codificacion secuenal, y consiste en la asignacion de un codigo subdividido en clasificaciones susecivas
+	que abarcan cada vez un mayor numero de posiciones y que sirven para identificar un grupo de funciones o caracteristicas homogeneas
+	Codigo
+	2-000-000-000		Pasivo
+	2-001-000-000		Pasivo Circulante
+	2-001-001-000		Cuentas por pagar a proveedores
+	2-001-001-001		Cuentas por pagar Ferreteria el Carmen
+
+4. Alfabetico Numerico
+	Se asigna un codigo alfabetico tomando en cuenta el nombre del elemento de la lista
+	y una codificacion numerica, que tiene en cuenta las demas caracteristicas de los elementos de la lista
+	Codigo
+	XEX	- 301
+	LVA-302		
+
+
+5. Nemotecnico
+	Es la combinacion de numeros y letras para identificar por varias caracteristicas los elementos
+	Codigo			Elemento
+	NT670151		Neumatico Tabular 670X15 Bonda Blanca
+	NT670152		Neumatico Tabular 670X15 Sin Banda Blanca

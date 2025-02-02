@@ -1,0 +1,161 @@
+Fecha:		Domingo, 22 de diciembre del 2024
+
+Curso de contabilidad financiera
+Clase No	: 2
+Unidad		: Introducción a la Contabilidad		
+Tema		: Base legal y Cuentas Contables
+
+Contenido	: 	-Continuación tema anterior
+		  		-Código del comercio de Nicaragua
+		  		-Capital Activo y Pasivo
+		  		-Cuentas Contables
+		  		-Clasificación de las cuentas contable del activo, pasivo y capital
+
+Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
+
+	Código del comercio en Nicaragua:
+		Titulo segundo de la contabilidad mercantil.
+		Articulo 28 los comerciantes llevaran necesariamente:
+			un libro de inventario y balance
+			un libro Diario
+			un libro mayor
+			un libro copiador de cartas y telegramas
+		
+		Articulo 29
+			La contabilidad sera llevada por partida doble.
+			Los libros, con excepción del libro copiador de cartas y telegramas, deberán inscribirse en idioma castellano
+		Articulo 31
+			Los comerciantes podrán llevar los libros por si mismos o por personas a quienes autoricen para ello;
+			si el comerciante no llevare los libros por si mismo, se presumirá concebida la autorización al que los lleve,
+			salvo prueba en contrario
+	
+	Definición de activo y pasivo
+
+	Activo: Bienes, derechos, recursos
+		Representa todos los bienes y derechos que son propiedad de la empresa o entidad
+		
+	Pasivo: Deudas, obligaciones, compromiso
+		Representa todas las deudas y obligaciones a cargo de la entidad
+
+	Capital Contable, capital Liquido o Capital Neto: 
+		La diferencia aritmética entre activo y pasivo (Activo - Pasivo)
+		Es la diferencia aritmética que existe entre el activo y el pasivo
+
+	Capital contable o Patrimonio Contable:
+		El concepto de capital contable es utilizado para entidades lucrativas, 
+		y el patrimonio contable, para las entidades con propósitos no lucrativos;
+		sin embargo, para efectos de este marco conceptual, ambos se define del siguiente modo:
+		Valor residual de los activos de la entidad, una vez deducidos todos sus pasivos.
+
+	Valor residual de los activos:
+		El capital contable o patrimonio contable, representa el valor que contablemente, tiene para la entidad
+		sus activos y pasivos, sujetos de reconocimiento en su estados financieros; por esta razon,
+		también se les conoce como activos netos de una entidad(Activos - Pasivos)
+
+	Capital Contable Positivo:
+		Es cuando el valor del activo, es mayor que el importe del pasivo
+
+	Capital Contable Negativo:
+		Es cuando el valor del activo, es menor que el importe del pasivo
+
+	Capital de Trabajo o Capital Neto de Trabajo:
+		Es la diferencia entre los totales del activo y pasivo, circulantes o corrientes
+	
+	Capital Propio:
+		Es la inversion que hace un solo dueño en la empresa
+	
+	Capital Social:
+		Es la inversion que los socios o accionistas hacen a la empresa constituida bajo la sociedad mercantil
+
+	Capital Contribuido:
+		Lo forman las aportaciones de los propietarios de la entidad
+
+	Capital Ganado:
+		Corresponde al resultado de las actividades operativas de la entidad y de otros eventos o circunstancias que le afecten
+
+	Cuenta:
+		En contabilidad las cuentas contables, son como los ladrillos en una obra,
+		o las telas en una sastrería:
+		Son los elementos con los que se construye la contabilidad, cada operación
+		que realiza la empresa, se va anotando en la cuenta contable que le
+		corresponde, de forma que se agrupan todas las operaciones de la misma 
+		naturaleza.
+	
+	Que es una cuenta contable?
+		Es el registro histórico donde se anota en forma clara, ordenada y comprensible,
+		los aumentos o disminuciones que sufren los diferentes elementos del balance(Activo, pasivo y capital). la cuenta es el registro donde se controlan
+		ordenadamente las variaciones o alteraciones que producen las operaciones en los diferentes elementos o conceptos o conceptos, del activo, el pasivos del capital de la entidad.
+	Nombre de la cuenta
+		el nombre que se le asigna a la cuenta, debe dar una idea clara del elemento que se controla
+
+	Clasificación de las cuentas
+		Cuentas del activo
+		Cuentas del pasivo
+		Cuentas del Capital
+
+
+		Nombre de la cuenta
+	________________________________
+			|
+	  Debe/Debito	| Haber/Crédito
+			|
+	La Anotación 	| La Anotación
+	que se hace 	| que se hace
+	CARGAR / DEBITAR| ABONAR / ACREDITAR
+	ADEUDAR		| ANOTAR
+	________________________________
+			|
+	MOVIMIENTO	| MOVIMIENTO
+	DEUDOR		| ACREEDOR
+	________________________________
+			|
+	SALDO		| SALDO
+	DEUDOR		| ACREEDOR
+			-
+			-
+
+	EL SALDO SE ANOTA EN 
+
+
+	Formula de la contabilidad
+	A = P + C
+
+	Recursos	Inversion
+	____________________________________________________________
+	Activo	|	Pasivo + Capital
+		|
+		|
+		|
+		|
+		|
+		|
+	
+	Capital económico:
+	Son los recursos materiales de los que dispone una empresa:
+	Herramientas, maquinarias, bienes, algo tangible de una empresa
+
+	Capital financiero:
+	Inversiones, intereses, dinero, etc, prestamos bancarios
+
+	Capital Contable: Activo - pasivo
+
+		Activo		: C$ 5,000,000.00
+		Pasivo		: C$ 2,000,000.00
+		Capital Contable: C$ 3,000,000.00
+
+las cuentas básicas de la contabilidad:
+en un negocio es básico conocer dos cosas fundamentales: 
+	Como entra o sale el dinero y como se deben registrar las operaciones.
+	las 7 cuentas básicas de la contabilidad en la que se registran los diferentes tipos de transacciones son
+	1 Activos : Representan todos los bienes y derechos que posee una empresa
+	2 Pasivos
+	3 Capital
+			Grado de disponibilidad
+			- Caja o Caja General
+			- Fondo fijo de Caja Chica
+			- Banco
+			- Inversiones Temporales
+			- Inventario
+			
+			
+
