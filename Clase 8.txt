@@ -11,3 +11,11 @@ Contenido	: 	- Reglas del Cargo y Abono
 		  		- Forma de registro de operaciones
 
 Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
+
+COSTO DE VENTA:
+El costo de venta se refiere a todos los gastos asociados a la producción, distribución y difusión de un producto o servicio. 
+Es decir, es todo el dinero gastado en las operaciones de una empresa para que el cliente final reciba lo ofertado
+
+Para calcular el costo de venta, se deben considerar varios factores, como el costo de los materiales directos, 
+la mano de obra directa, los gastos indirectos y otros costos operativos.
+Este cálculo es fundamental para determinar la rentabilidad de un negocio y tomar decisiones estratégicas
