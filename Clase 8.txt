@@ -6,16 +6,62 @@ Unidad		: Registros Contables
 Tema		: Sistema de Registro de Operaciones
 
 Contenido	: 	- Reglas del Cargo y Abono
-		  		- Partida Doble
-		  		- Asiento Contable
-		  		- Forma de registro de operaciones
+                - Partida Doble
+                - Asiento Contable
+                - Forma de registro de operaciones
 
 Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
 
 COSTO DE VENTA:
 El costo de venta se refiere a todos los gastos asociados a la producción, distribución y difusión de un producto o servicio. 
-Es decir, es todo el dinero gastado en las operaciones de una empresa para que el cliente final reciba lo ofertado
+Es decir, es todo el dinero gastado en las operaciones de una empresa para que el cliente final reciba lo ofertado.
 
 Para calcular el costo de venta, se deben considerar varios factores, como el costo de los materiales directos, 
 la mano de obra directa, los gastos indirectos y otros costos operativos.
-Este cálculo es fundamental para determinar la rentabilidad de un negocio y tomar decisiones estratégicas
+Este cálculo es fundamental para determinar la rentabilidad de un negocio y tomar decisiones estratégicas.
+
+
+        ACTIVO              =               PASIVO              +               CAPITAL
+C$ 600,000.00               =             C$ 200,000.00         +           C$ 400,000.00
+        DEBE                                                   HABER
++ ACTIVO                                                     + PASIVO
++ COSTOS                                                     + CAPITAL
++ GASTOS                                                     + INGRESOS
+- PASIVO                                                     - ACTIVO                   
+- CAPITAL                                                    - COSTOS
+- INGRESOS                                                   - GASTOS
+
+Reglas o principios
+Con base en lo anterior, se instruyeron las siguientes reglas:
+1- Toda cuenta de activo debe empezar con un cargo, aumentan cargándolas, disminuyen abonándolas y su saldo es deudor.
+2- Las cuentas del pasivo empiezan con un abono, aumentan abonándolas, disminuyen cargándolas, y su saldo es acreedor.
+3- La cuenta del capital empieza con un abono, aumentan abonándolas, disminuyen cargándolas, y su saldo por lo regular es acreedor.
+4- las cuentas del capital o de resultado: gastos de venta y gastos de administracion, siempre se cargan y por tanto su saldo sera deudor
+5- las cuentas del capital o de resultado: gastos y productos financieros y otros gastos y productos, se pueden cargar o abonar y por tanto, su saldo podra ser deudor o acreedor
+
+                                analisis de la operaciones
+la entidad vendio mercancia por C$ 5,000.00 en efectivo
+                              -   inventario (Activo circulante)          C$ 50,000.00
+                              +  inventario (caja)                        C$ 50,000.00
+
+
+la empreza compro mercancia por c$ 30,000.00 al credito
+
+(activo circulante) + inventario        c$ 30,000.00
+(pasivo circulante) + proveedores       c$ 30,000.00
+
+
+regla para el asiento diario
+1- Primero se anota la cuenta que se cargan
+
+  cuenta            DEBE            HABER
+inventario      C$ 30,000.00
+proveedores                     C$ 30,000.00
+
+
+la entidad pago con cheque un pagare a su cargo por C$ 50,000.00, sobre los cuales le concedieron
+un descuento del 2% por pronto pago
+
+(activo circulante) - BANCO                   c$ 50,000.00
+(pasivo circulante) - DOCUMENTOS POR PAGAR    c$ 49,000.00
+(INGRESOS)          + PRODUCTOS FINANCEIROS   c$  1,000.00
