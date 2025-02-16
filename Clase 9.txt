@@ -1,0 +1,78 @@
+Fecha:		Domingo, 09 de febrero del 2025
+
+Curso de contabilidad financiera
+Clase No	: 9
+Unidad		: Registros Contables		
+Tema		: Sistema de Registro de Operaciones
+
+Contenido	: 	- Libro Mayor
+                        - Libro Diario
+                        - Libros Auxiliares
+                        - Asientos en el libro general
+                        - Pases al libro mayor general
+                        - Balanza de Comprobación
+
+Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
+
+Partida doble.
+Compensación entre las cuentas del balance. En cada operación que se efectúa los elementos del balance varían;
+mas no por ello deja de subsistir la igualdad numérica entre el activo y la suma del pasivo con el capital.
+Esta compensación entre los elementos del balance es la base de la partida doble.
+
+Partida doble:
+La partida doble consiste en registrar, por medio de cargos y abonos, los efectos que producen las operaciones
+en los diferentes elementos del balance, de tal manera que siempre subsista la igualdad entre el activo y la suma del pasivo con el capital.
+
+Igualdad numérica entre los movimientos
+Como los efectos que producen las operaciones se registran en las cuentas, es natural que la suma de los cargos y abonos
+de cada asiento, sea la misma.
+
+Libros Principales
+Con el nombre de libros principales se denominan contablemente, los libro Diario y Mayor.
+
+Libros Auxiliares
+Con el nombre de libros auxiliares se denominan contablemente, los libros que se lleva para registrar de forma analitica
+las operaciones que realiza el contribuyente.
+
+Libro Diario
+El libro diario, conocido tambien como: Libros de primera anotacion, es aquel en el cual se registran
+por orden progresivo de fechas cada una de las operaciones que se van efectuando.
+en el libro diario se deben escribir las operaciones detalladamente, indicando, no solo el nombre de las cuentas de cargo y abono,
+como hasta ahora se ha venido haciendo, si no, ademas, una serie de datos de caracter infomrativo, como son :
+1- Fecha de Operacion
+2- Numero de Orden de la operacion
+3- Nombre de las personas que intervienen en la operacion
+4- Nombre y numero de los documentos que ampaata ma operacion
+5- Vencimiento de los Documetnos
+6- Condiciones bajo las cuales se contrato la operacoin.
+
+Rayado del Libro Diario: Ver Excel
+
+Libro Mayor:
+El libro mayor es aquel en el cual se abre una cuenta especial para cada concepto de activo, pasivo y capital
+al libro mayor, se deben trasladar por orden progresivo de fechas, los asientos del libro diario.
+el libro mayor, tambien es conocido como libro de segunda anotacion, pues los datos que aparecen en el
+provienen del libro diario, del cual se copian las cuentas, los valores y las fechas.
+
+Rayado del Libro Mayor: Ver excel
+
+Registro de las operaciones en el libro diario
+para comprender en forma practica como se efectua el registro de las operaciones
+en el libro diario, se va a desarrollar el siguiente ejercicio 
+
+El 02 de enero del 2025, el sr dagoberto gonzalez, inicia operaciones de su negocio denominado
+Distribuidora EL CARPENTERO, con el siguiente balance inicial:
+
+Caja:           25,000.00
+Bancos          50,000.00
+Inventario:     75,000.00
+Clientes:       30,000.00
+proveedores:    60,000.00
+Capital        120,000.00
+
+Ver excel
+
+
+03/01/2025
+Compramos mobiliario y  equipo de oficina por 60,000
+pagando 40% con cheque y el resto lo quedamos debiendo
