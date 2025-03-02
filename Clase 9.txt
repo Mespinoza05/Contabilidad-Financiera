@@ -54,7 +54,9 @@ al libro mayor, se deben trasladar por orden progresivo de fechas, los asientos 
 el libro mayor, tambien es conocido como libro de segunda anotacion, pues los datos que aparecen en el
 provienen del libro diario, del cual se copian las cuentas, los valores y las fechas.
 
+Cuando en las cuentas únicamente se registran los cargos y abonos, el rayado del libro mayor es el siguiente
 Rayado del Libro Mayor: Ver excel
+
 
 Registro de las operaciones en el libro diario
 para comprender en forma practica como se efectua el registro de las operaciones

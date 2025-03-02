@@ -6,11 +6,11 @@ Unidad		: Registros Contables
 Tema		: Sistema de Registro de Operaciones
 
 Contenido	: 	- Libro Mayor
-                        - Libro Diario
-                        - Libros Auxiliares
-                        - Asientos en el libro general
-                        - Pases al libro mayor general
-                        - Balanza de Comprobación
+                - Libro Diario
+                - Libros Auxiliares
+                - Asientos en el libro general
+                - Pases al libro mayor general
+                - Balanza de Comprobación
 
 Profesor: Ricardo Ariel Chevez		Telf: 7858-8881
 
